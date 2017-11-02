@@ -36,7 +36,7 @@ A docker container is available with all the tools you need installed at : https
 
 ```bash
 docker pull mathieunls/latex
-docker run -dit -v local_depbleed:/mnt/depbleed --name latex
+docker run -dit -v /path/to/local_depbleed:/mnt/depbleed --name latex
 docker attach latex
 cd /mnt/depbleed
 ./build.sh
