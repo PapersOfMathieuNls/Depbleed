@@ -18,10 +18,7 @@ author:
   email: wahab.hamou-lhadj@concordia.ca
 csl: config/acm-sig-proceedings.csl
 keyword: 
-- Bug Prediction
-- Risky Software Commits
-- Clone Detection
-- Software Maintenance
+- 
 ---
 
 # Introduction {#sec:introduction}
