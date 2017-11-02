@@ -41,3 +41,8 @@ docker attach latex
 cd /mnt/depbleed
 ./build.sh
 ```
+
+## Examples of tools papers
+
+- http://www.archipel.uqam.ca/6703/5/chp%253A10.1007%252F978-3-642-37804-1_51.pdf_auth66%3D1426281388_120baa2f7dd101dcf46a732feed24f94%26ext%3D.pdf
+- http://users.encs.concordia.ca/~abdelw/sba/papers/SANER16-Bumper.pdf
